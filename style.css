@@ -94,15 +94,6 @@ body {
  	color:brown;
  }
 
- .hero-title{
-
- 	position: absolute;
- 	width: 1500px;
- 	margin-left: 0;
- 	margin-left: 0;
-
- }
-
  h1{
 
  	color: white;
@@ -265,7 +256,7 @@ body {
 .contact-content {
 	max-width: 720px;
 	margin: 0 auto;
-	margin-top: 10%;
+	margin-top: 20%;
 	text-align: center;
 }
 
@@ -512,6 +503,7 @@ float: center;
 
 		font-size: 1.8em;
         	}
+	.
 
 }
 
